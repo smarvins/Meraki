@@ -25,4 +25,10 @@ not yet added will be added soon
 ## AUTHORS
 **Credits**
 
-* Steve 
+* Steve Wachira
+
+* Neville Kaundu
+
+* Collins Kariuki
+
+* Ben Karanja
