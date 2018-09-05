@@ -22,13 +22,17 @@ We thought to solve that problem by showing you the story of Meraki who apprecia
 
 not yet added will be added soon
 
-## AUTHORS
+## AUTHORS.
 **Credits**
 
-* Steve Wachira
+* Steve Wachira.
 
-* Neville Kaundu
+* Neville Kaundu.
 
-* Collins Kariuki
+* Collins Kariuki.
 
-* Ben Karanja
+* Ben Karanja.
+
+# Prerequisites.
+
+
