@@ -38,14 +38,15 @@ not yet added will be added soon
 
 # Prerequisites.
 
-* You Will Need to have Microsoft Window installed on your device.
+* You Will Need to have **Microsoft Window** installed on your device.
 
-    -Microsoft Windows is a group of several graphical operating system families, all of which are developed, marketed, and sold by Microsoft.
+    -Microsoft Windows is a group of several ***graphical operating system*** families, all of which are developed, marketed, and sold by Microsoft.
 
     -This is because the game engine is currently available on Microsoft Windows.
 
 
-*  You need to install Unity game engine
+*  You need to install **Unity game engine**
 
     -Unity is, in short, a closed-source, cross-platform game development application. You create your game by manipulating objects in 3D and attaching various components to them. Even 2D games must be manipulated in 2D/3D. Scripts are written in C# (recommended), Boo or UnityScript.
 
+# TECHN
