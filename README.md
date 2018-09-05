@@ -14,3 +14,6 @@ People these days don’t appreciate themselves for who they are...the reasons t
 
 * Insecure about opinions.
 
+# SOLUTION
+
+We thought to solve that problem by showing you the story of Meraki who appreciates his personality regardless of what others think you’ll see how he took risks and encountered dangers to maintain that because that what defines him.
