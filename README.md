@@ -74,3 +74,15 @@ Link:->  ```https://github.com/zecollokaris/Meraki```
 
     -This is because Unity recommends scripts to be written in C#.
 
+# Support and Contact
+
+-Email Address: 
+
+collo.kariss@gmail.com,
+
+BenKaranja43@gmail.com, 
+
+stevewachiradev@gmail.com
+
+kilonzoneville@gmail.com
+
