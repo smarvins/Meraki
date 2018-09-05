@@ -49,4 +49,10 @@ not yet added will be added soon
 
     -Unity is, in short, a closed-source, cross-platform game development application. You create your game by manipulating objects in 3D and attaching various components to them. Even 2D games must be manipulated in 2D/3D. Scripts are written in C# (recommended), Boo or UnityScript.
 
-# TECHN
+# TECHNOLOGIES USED.
+
+1. Unity Game Engine.
+
+    -This is the engine used to create the scripts that held the game together including the game physics of the game such as gravity.
+
+
