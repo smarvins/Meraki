@@ -38,6 +38,11 @@ not yet added will be added soon
 
 # Prerequisites.
 
+To work with the game you have to clone Meraki on my github repo to access the game. 
+
+Link:->  ```https://github.com/zecollokaris/Meraki```
+    
+
 * You Will Need to have **Microsoft Window** installed on your device.
 
     -Microsoft Windows is a group of several ***graphical operating system*** families, all of which are developed, marketed, and sold by Microsoft.
@@ -51,16 +56,21 @@ not yet added will be added soon
 
 # TECHNOLOGIES USED.
 
-1. Unity Game Engine.
+1. **Unity Game Engine.**
 
     -This is the engine used to create the scripts that held the game together including the game physics of the game such as gravity.
 
-2. Adobe Photoshop.
+2. **Adobe Photoshop.**
 
     -Used to design character animations and style the character.
 
-3. Adobe Illustrator
+3. **Adobe Illustrator.**
 
     -Used to design game environment especially how the nature around was postioned.
 
-4. C Sharp (programming language)
+4. **C Sharp (programming language).**
+
+    -C# is a multi-paradigm programming language encompassing strong typing, imperative, declarative, functional, generic, object-oriented (class-based), and component-oriented programming disciplines.
+
+    -This is because Unity recommends scripts to be written in C#.
+
