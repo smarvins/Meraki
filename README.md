@@ -55,4 +55,11 @@ not yet added will be added soon
 
     -This is the engine used to create the scripts that held the game together including the game physics of the game such as gravity.
 
+2. Adobe Photoshop.
+
+    -Used to design character animations and style the character.
+
+3. Adobe Illustrator
+
+    -Used to design game environment especially how the nature around was postioned.
 
