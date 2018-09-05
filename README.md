@@ -86,3 +86,8 @@ stevewachiradev@gmail.com
 
 kilonzoneville@gmail.com
 
+# License
+
+The app is licensed by MIT.
+
+Meraki - MIT (c) 2018 LICENSE
