@@ -20,7 +20,11 @@ We thought to solve that problem by showing you the story of Meraki who apprecia
 
 # DISPLAY
 
-not yet added will be added soon
+![](demo-screenshots/disp1.png)
+
+---
+
+![](demo-screenshots/disp2.png)
 
 ---
 
@@ -91,3 +95,5 @@ kilonzoneville@gmail.com
 The app is licensed by MIT.
 
 Meraki - MIT (c) 2018 LICENSE
+
+---
